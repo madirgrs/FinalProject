@@ -3,8 +3,22 @@
 <body>
 
   <h1>Music</h1>
-  <p>blah blah blah blah</p>
+  <p>Music has been one of my biggest passions for as long as I can remember. Music is a very personal thing for me and where a lot of my self expression comes from. I listen to a lot of different types of music and I always love finding new music artists but some of my favorites are</p>
+  <ul>
+    <li>Sewerperson</li>
+    <li>Brakence</li>
+    <li>Glaive</li>
+    <li>Midwxst</li>
+    <li>Aldn</li>
+    <li><a href="https://www.last.fm/user/madirgrs">All of the artists I do listen to however can be found here!</a></li>
   
+ <h2>Concerts</h2>
+ <p>Now that COVID conditions have started to improve, I have already been going to a lot of concerts! Concerts are something my dad and I love to go to. We've traveled to a lot of places and made a lot of great memories from the concerts we have been to.</p>
+    
+ <img src="https://user-images.githubusercontent.com/101590899/158725845-82a57233-dcc3-449d-80e8-a9547a490e04.JPG" alt="Concert Photo">   
+ 
+    
+ <p>  </p>   
  <a href="https://github.com/madirgrs/FinalProject">Back To Home</a>
   
   </html>
