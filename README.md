@@ -8,9 +8,9 @@
   
   <h3>Other Sites</h3>  
   <a href="https://github.com/madirgrs/FinalProject/blob/main/MUSIC.md">Music</a>
-  <a href="url">Majoring in IT</a>
-  <a href="url">Level Up</a>
-  <a href="url">My Sister</a>
+  <a href="https://github.com/madirgrs/FinalProject/blob/main/MAJOR.md">Majoring in IT</a>
+  <a href="https://github.com/madirgrs/FinalProject/blob/main/LEVELUP.md">Level Up</a>
+  <a href="https://github.com/madirgrs/FinalProject/blob/main/SISTER.md">My Sister</a>
     
   </html>
   </body>
