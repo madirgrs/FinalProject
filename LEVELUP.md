@@ -3,7 +3,7 @@
 <body>
   
   <h1>Level Up</h1>
-  <p>Level Up is a...<p>
+  <p><b>Level Up</b> is a...<p>
   <ul> 
     <li>Bowling</li>
     <li>Arcade</li>
