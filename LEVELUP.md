@@ -11,7 +11,7 @@
     <li>Ropes Course</li>
     <li>Roller Skating</li>
     <li>Mini Golf</li>
-    <li>Food and Bar Venue in the Columbia Mall.</li>
+    <li>Food and Bar Venue in the <b>Columbia Mall</b>.</li>
     
 <p> </p>  
 <p>I have been working there for well over two years now and the place has become a large part of my life as I have made some of my closest and lifelong friends there. The job is definitely exhausting but I couldn't imagine myself somewhere else.</p>
