@@ -8,8 +8,11 @@
   
   <h3>Other Sites</h3>  
   <a href="https://github.com/madirgrs/FinalProject/blob/main/MUSIC.md">Music</a>
+  <p> </p>
   <a href="https://github.com/madirgrs/FinalProject/blob/main/MAJOR.md">Majoring in IT</a>
+  <p> </p>
   <a href="https://github.com/madirgrs/FinalProject/blob/main/LEVELUP.md">Level Up</a>
+  <p> </p>
   <a href="https://github.com/madirgrs/FinalProject/blob/main/SISTER.md">My Sister</a>
     
   </html>
