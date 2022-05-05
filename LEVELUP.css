@@ -3,9 +3,14 @@
 <head>
 <style>
 body {
-  background-color: purple;
+  background-color: linen;
 }
 
+h1 {
+  color: purple;
+}
+</style>
+</head>
 <body>
 
   <h1>Level Up</h1>
